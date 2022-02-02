@@ -1,0 +1,33 @@
+html, body {
+    margin:0px;
+  }
+
+ .navi {
+    padding:10px;
+} 
+
+.srch{
+    text-align:center;
+}
+
+.input_id{
+    gap:10px;
+    display:flex;
+}
+
+.content{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/971/593/287/disneyland-walt-disney-disney-wallpaper-preview.jpg');
+    display:flex;
+    flex-wrap: wrap;
+    padding:10px;
+    gap:10px;
+    justify-content: space-evenly;
+}
+
+.image{
+    align-items: center;
+    height:10rem;
+    object-fit: contain;
+}
+
+.card{opacity: 0.9}

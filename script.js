@@ -61,6 +61,9 @@ document.addEventListener("DOMContentLoaded", function (){
             .then((result) => {
                 console.log(result.data);
 
+                //adding background image
+                content.style.backgroundImage = "url('https://wallpaperaccess.com/full/1235929.jpg')"
+
                 //getting all the characters
                 if(all){
                     result.data.forEach((character) => {

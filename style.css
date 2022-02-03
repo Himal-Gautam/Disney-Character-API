@@ -2,12 +2,18 @@ html, body {
     margin:0px;
   }
 
+h1{
+    margin:0px;
+}
+
  .navi {
     padding:10px;
+    justify-content: space-between;
 } 
 
 .srch{
-    text-align:center;
+    flex-direction:row; 
+    display:flex;
 }
 
 .input_id{
@@ -16,12 +22,13 @@ html, body {
 }
 
 .content{
-    background-image: url('https://c4.wallpaperflare.com/wallpaper/971/593/287/disneyland-walt-disney-disney-wallpaper-preview.jpg');
     display:flex;
     flex-wrap: wrap;
     padding:10px;
     gap:10px;
     justify-content: space-evenly;
+    background-attachment: fixed;
+    background-size: 100%;
 }
 
 .image{

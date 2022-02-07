@@ -1,15 +1,11 @@
-# Task of Async programming- Day -4 : 13/11/2021 - Saturday
-
 # Disney-Character-API
-Gets Disney Character information from API (all at once or any one using id)
-Deployed Link :- https://disney-characters.netlify.app
+Gets Disney Character information from API (all at once or any one using id). The Deployed Link is in "about" section.
 
-# Cat-API-
-Gets Cat's Fact from API 
-Source Code Link :- https://github.com/Himal-Gautam/Cat-API-
-Deployed Link:- https://cat-fact-api.netlify.app
+# NOTE :-
 
-# Use-Disposable-Email-Checker-API
-Used a 3rd party API to create front end so we can check an email address is disposable or not.
-Source Code Link :- https://github.com/Himal-Gautam/Use-Disposable-Email-Checker-API
-Deployed Link :- https://disposable-mail-checker.netlify.app
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+The deployed link is in "about" section of this git. Because by mistake i submitted wrong link in the zen portal.
